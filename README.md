@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Sedat, a computer engineering student living in Turkey. Currently, I'm interested in web applications and UI/UX design. I always strive to learn new technologies and improve myself.</p>
+<p align="left">Hello! I'm Sedat, a frontend developer from Turkey with 2 years of experience in building web and mobile applications. I enjoy creating efficient, user-friendly interfaces and continuously learning new technologies to improve my skills.</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ I work as a front-end engineer intern at Arçelik Global, where I develop React applications. Currently, I'm learning Next.js and TypeScript. Additionally, I'm in the process of learning Swift for iOS application development.<br><br>📧 Feel free to reach out to me at this email address for any questions you may have: korkmz.sedat@gmail.com<br>🐦 You can also follow my Twitter account: https://twitter.com/sedat_kimki</p>
+<p align="left">✨ I’m currently working as a Software Developer at Innovance, contributing to online banking and mobile platforms with React Native, Next.js, and TypeScript.<br><br>
+📂 I also work on personal projects like <a href="https://github.com/sedatkimki/restroPOS">RestroPOS</a>, a restaurant management system, and <a href="https://github.com/sedatkimki/dayanikli-gelecek">Dayanıklı Gelecek</a>, an open-source earthquake awareness initiative.<br><br>
+📧 Reach me at: korkmz.sedat@gmail.com<br>
+🐦 Twitter: <a href="https://twitter.com/sedat_kimki">@sedat_kimki</a></p>
 
 ###
 
@@ -27,10 +30,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
@@ -41,10 +48,12 @@
 
 ###
 
+<h2 align="left">Music</h2>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/sedat">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=uis0dmq7pmnc4arlr8tbz0bru&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
